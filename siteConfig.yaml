@@ -51,4 +51,3 @@ linkChecker:
     DirectoryPath: "public"
     IgnoreDirectoryMissingTrailingSlash: true
     IgnoreAltMissing: true
-    OutputDir: "/app/tmp/.htmltest"
