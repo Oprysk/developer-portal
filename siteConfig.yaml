@@ -48,7 +48,7 @@ footer:
 linkChecker:
   severity: warning
   options:
-    DirectoryPath: "public" //gatsby build folder
+    DirectoryPath: "public"
     IgnoreDirectoryMissingTrailingSlash: true
     IgnoreAltMissing: true
     OutputDir: "/app/tmp/.htmltest"
