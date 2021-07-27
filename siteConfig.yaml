@@ -47,6 +47,3 @@ footer:
           page: contact.mdx
 linkChecker:
   severity: error
-  options:
-    DirectoryPath: 'public'
-    EnforceHTTPS: true
