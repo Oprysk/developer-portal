@@ -45,3 +45,7 @@ footer:
           page: faq.md
         - label: Contact us
           page: contact.mdx
+linkChecker:
+  severity: error
+  options:
+    EnforceHTTPS: true
