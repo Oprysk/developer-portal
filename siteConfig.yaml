@@ -48,4 +48,5 @@ footer:
 linkChecker:
   severity: error
   options:
+    DirectoryPath: 'public'
     EnforceHTTPS: true
