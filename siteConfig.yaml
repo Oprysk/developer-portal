@@ -48,4 +48,4 @@ footer:
 linkChecker:
   severity: warning
   options:
-    DirectoryPath: 'public'
+    IgnoreDirectoryMissingTrailingSlash: true
