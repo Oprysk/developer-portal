@@ -46,6 +46,6 @@ footer:
         - label: Contact us
           page: contact.mdx
 linkChecker:
-  severity: error
+  severity: warning
   options:
     DirectoryPath: 'public'
