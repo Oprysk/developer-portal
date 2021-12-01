@@ -52,3 +52,4 @@ linkChecker:
     IgnoreDirs:
       - "developer-portal"
       - "faq"
+      - "test/nested"
