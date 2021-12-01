@@ -31,8 +31,6 @@ yarn start
 This command will start a development server.
 Most functionality exists in the development server except for search.
 When the server is ready, the url will be published to the console.
-
-[comment]: <> (It may default to http://localhost:3000.)
 Open that in a browser to see this developer portal load.
 
 ## Stop the development environment
