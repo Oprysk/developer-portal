@@ -50,5 +50,4 @@ linkChecker:
   options:
     DirectoryPath: 'public'
     IgnoreDirs:
-      - "developer-portal/images"
-      - "docs"
+      - "developer-portal"
