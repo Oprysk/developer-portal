@@ -49,3 +49,7 @@ linkChecker:
   severity: error
   options:
     DirectoryPath: 'public'
+    IgnoreDirs:
+      - "developer-portal"
+      - "faq"
+      - "test/nested"
