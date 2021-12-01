@@ -38,7 +38,7 @@ Open that in a browser to see this developer portal load.
 
 Press control and c.
 
-![control-c](ctrl-c.png)
+![control-c](ctrl-c1.png)
 
 ## Clearing cache
 
