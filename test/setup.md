@@ -38,7 +38,7 @@ Open that in a browser to see this developer portal load.
 
 Press control and c.
 
-![control-c](ctrl-c.png)
+![control-c](../developer-portal/ctrl-c.png)
 
 ## Clearing cache
 
@@ -58,4 +58,4 @@ We actively reduce these to make the best development environment experience pos
 
 You are ready to train!
 
-Go to the [training exercises list](index.md).
+Go to the [training exercises list](../developer-portal/index.md).

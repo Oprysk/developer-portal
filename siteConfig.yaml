@@ -51,3 +51,4 @@ linkChecker:
     DirectoryPath: 'public'
     IgnoreDirs:
       - "developer-portal"
+      - "faq"
